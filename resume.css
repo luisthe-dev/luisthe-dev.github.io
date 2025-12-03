@@ -147,6 +147,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   margin: 8px 12px;
+  gap: 10px;
 }
 
 .bodyFlex .basicInfo .basicInfoBlocks .basicInfoBlock {
@@ -154,7 +155,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  margin: 8px 20px;
+  margin: 10px 20px;
   border-left: 3px solid #126796;
   padding-left: 20px;
   width: 80%;
